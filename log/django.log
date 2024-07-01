@@ -1,0 +1,13 @@
+Watching for file changes with StatReloader
+About page accessed.
+"GET /about/ HTTP/1.1" 200 97
+Index page accessed.
+"GET / HTTP/1.1" 200 117
+D:\учеба\api\pro01\pro01\settings.py changed, reloading.
+INFO 2024-06-20 21:28:13,790 autoreload 6152 2336 Watching for file changes with StatReloader
+INFO 2024-06-20 21:28:19,951 views 6152 6672 Index page accessed.
+INFO 2024-06-20 21:28:19,952 basehttp 6152 6672 "GET / HTTP/1.1" 200 117
+INFO 2024-06-20 21:28:23,922 views 6152 6672 About page accessed.
+INFO 2024-06-20 21:28:23,923 basehttp 6152 6672 "GET /about/ HTTP/1.1" 200 97
+INFO 2024-06-21 13:37:36,394 autoreload 6464 3900 Watching for file changes with StatReloader
+INFO 2024-07-01 13:40:13,631 autoreload 4764 624 Watching for file changes with StatReloader
